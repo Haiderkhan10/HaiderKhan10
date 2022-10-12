@@ -1,26 +1,24 @@
- ![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
-
-<h1 align="center">Hi 👋, I'm Haider Khan</h1>
+  ![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
+<h1 align="center">Hi, I'm Haider Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1270214/screenshots/5646236/web-development-illustration.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderkhan10&label=Profile%20views&color=0e75b6&style=flat" alt="haiderkhan10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/haider" target="blank"><img src="https://img.shields.io/twitter/follow/haider?logo=twitter&style=for-the-badge" alt="haider" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@haider32516868" target="blank"><img src="https://img.shields.io/twitter/follow/@haider32516868?logo=twitter&style=for-the-badge" alt="@haider32516868" /></a> </p>
 
 - 🌱 I’m currently learning **React JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://fmcngs.csb.app/#getintouch](https://fmcngs.csb.app/#getintouch)
+- 👨‍💻 All of my projects are available at [https://codesandbox.io/u/chilgoza2002](https://codesandbox.io/u/chilgoza2002)
 
 - 📫 How to reach me **haiderkhan10697@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/haider khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="haider khan" height="30" width="40" /></a>
-<a href="https://twitter.com/haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haider" height="30" width="40" /></a>
+<a href="https://codepen.io/@haider32516868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@haider32516868" height="30" width="40" /></a>
+<a href="https://twitter.com/@haider32516868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@haider32516868" height="30" width="40" /></a>
 <a href="https://codesandbox.com/haider khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="haider khan" height="30" width="40" /></a>
 <a href="https://instagram.com/haiderdivine1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haiderdivine1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/haider khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="haider khan" height="30" width="40" /></a>
 <a href="https://discord.gg/Iroh#6715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Iroh#6715" height="30" width="40" /></a>
 </p>
 
