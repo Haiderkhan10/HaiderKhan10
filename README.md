@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@haider32516868" target="blank"><img src="https://img.shields.io/twitter/follow/@haider32516868?logo=twitter&style=for-the-badge" alt="@haider32516868" /></a> </p>
 
-- 🌱 I’m currently learning **React JavaScript**
+- 🌱 I’m currently Working as Intern at BrightCHAMPS**
 
 - 👨‍💻 All of my projects are available at [https://codesandbox.io/u/chilgoza2002](https://codesandbox.io/u/chilgoza2002)
 
